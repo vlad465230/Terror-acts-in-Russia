@@ -1,5 +1,4 @@
-# Terror-acts-in-Russia
-Terrorist attacks in Russiа
+# Terror acts in Russia
 Source:WIKIPEDIA: ATRICLE “TERRORIST ACTS COMMITED IN RUSSIA”
 Object:GEOLOCATION OF TERRORIST ACTS AND SHORT INFORMATION ABOUT THEM
 Three periods: 1.RUSSIAN EMPIRE 1866 –1917
